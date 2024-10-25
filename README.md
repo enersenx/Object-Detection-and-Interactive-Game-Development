@@ -1,3 +1,9 @@
+## GUI User Guide
+Before running the file, please install the Jolly Lodger font by clicking on the file “JollyLodger-Regular.ttf” and then clicking on "Install."  
+Next, launch the main graphical user interface by running the file “firstgui.py.”
+
+#######################################################################################################################################################################
+
 # Object Detection and Interactive Game Development
  Application of computer vision techniques in real-world scenarios, such as object detection and interactive game creation
 
